@@ -1,0 +1,32 @@
+{
+  "name": "alura-geek-api",
+  "version": "1.0.0",
+  "description": "API Fake para Alura Geek",
+  "main": "index.js",
+  "scripts": {
+    "start": "node api/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AidaRosaCalvo/alura-geek-api.git"
+  },
+  "keywords": [
+    "alura",
+    "alura-geek",
+    "json-server",
+    "javascript",
+    "API",
+    "challenge"
+  ],
+  "author": "AidaRosaCalvo",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/AidaRosaCalvo/alura-geek-api/issues"
+  },
+  "homepage": "https://github.com/AidaRosaCalvo#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.3"
+  }
+}
